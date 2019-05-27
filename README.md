@@ -1,5 +1,4 @@
 # Stock_Presiction_Machine_learning
-# Stock
 # Project Overview
 Stock analysis or prediction model using machineleraning using the impact between different out of market factors such as weather,passenger details,gold price etc and the stock prices.
 # Stock analysis
@@ -42,7 +41,7 @@ Backend::  Tensorflow
           ->Run everything on a step by step basis or for added speed with tight pseudo-vectorized loop operations
         * Extensible
            ->Develop your own indicators, analyzers and observers in just a few steps 
-# Architecture
+
 
 
 
